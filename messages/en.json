@@ -1,0 +1,110 @@
+{
+  "ThemeDropdown": {
+    "light": {
+      "label": "Light",
+      "key": "light"
+    },
+    "dark": {
+      "label": "Dark",
+      "key": "dark"
+    }
+  },
+  "LanguageDropdown": {
+    "pt-br": {
+      "label": "Portuguese",
+      "key": "pt-br"
+    },
+    "en": {
+      "label": "English",
+      "key": "en"
+    }
+  },
+  "Navbar": {
+    "buttons": {
+      "home": "Home",
+      "skills": "Skills",
+      "experiences": "Experiences",
+      "projects": "Projects",
+      "education": "Education",
+      "contact": "Contact"
+    }
+  },
+  "Home": {
+    "greeting": "Hi, I'm",
+    "name": "Lucas Neri",
+    "job-title": "Frontend developer",
+    "description": "I'm a dedicated developer with experience in various areas of software development since 2020. My primary focus is on web systems and development, where I am passionate about discovering innovative solutions and strategies to optimize processes and improve products. I'm committed to growing as a leading developer, known for my ability to share knowledge and make a meaningful impact on every organization I collaborate with.",
+    "second-description": "My goal is to continuously contribute to the success of my team and advance the field through both technical excellence and effective knowledge sharing.",
+    "buttons": {
+      "contact-me": "Let's talk",
+      "download-cv": "Download CV"
+    }
+  },
+  "Skills": {
+    "title": "My tech stack",
+    "languages": "Languages",
+    "databases": "Databases",
+    "cloud-providers": "Cloud providers"
+  },
+  "Experiences": {
+    "title": "Experiences",
+    "experiences": {
+      "globo": {
+        "title": "Globo",
+        "description": "My primary focus is on enhancing the system by developing new features and optimizing existing tools to ensure peak performance and functionality. I'm involved in all stages of the development process, from initial design to deployment and maintenance."
+      },
+      "estrela": {
+        "title": "EstrelaBet",
+        "description": "In my role as a developer, I played a key part in maintaining and enhancing our internal system, crucial for managing payments, player engagement, and the affiliate program. Using React and Vue.js, I developed and optimized user interfaces for a smooth and intuitive experience. I also leveraged React Native to improve our mobile applications, ensuring they were robust and user-friendly. Additionally, I significantly contributed to the design and optimization of our affiliate program. I created scalable solutions that supported numerous affiliates, enhancing their operational efficiency and communication. My work ensured the program's functionality, adaptability, and overall success."
+      },
+      "sx": {
+        "title": "Grupo SX",
+        "description": "My primary focus is on enhancing the system by adding new features and updating existing tools to ensure optimal performance and functionality. I'm involved in all stages of the development process, contributing to system development and improvement."
+      },
+      "upflow": {
+        "title": "upFlow.me",
+        "description": "I played a key role in optimizing and enhancing our internal systems. My responsibilities included analyzing system requirements, designing and implementing solutions to improve functionality and efficiency, and working with cross-functional teams for seamless integration. I evaluated and integrated technologies to meet evolving business needs, developed and maintained systems for data management, process automation, and user interaction enhancement. My contributions focused on delivering actionable insights, driving system improvements, and aligning technological solutions with business goals."
+      },
+      "sagendra": {
+        "title": "Sagendra",
+        "description": "Durante meu tempo como Trainee na Sagendra, adquiri experiência prática em diversas áreas do desenvolvimento de software e análise de sistemas. Contribuí ativamente para projetos onde apliquei meu conhecimento teórico em situações do mundo real. Meu papel envolvia apoiar desenvolvedores seniores com tarefas de codificação, participar de revisões de código e auxiliar no design e implementação de novas funcionalidades. Também desempenhei um papel fundamental na depuração e solução de problemas, desenvolvendo habilidades para lidar efetivamente com desafios técnicos. Essa experiência prática me proporcionou uma base sólida nos princípios e melhores práticas de engenharia de software, me preparando para funções mais avançadas na área."
+      }
+    }
+  },
+  "Projects": {
+    "title": "Projects",
+    "projects": {
+      "movyx": {
+        "title": "Movyx",
+        "description": "The Super App Movyx is a comprehensive solution designed to simplify life for car owners by managing vehicle-related tasks directly from your smartphone. With Movyx, you can easily pay your IPVA and fines, with the option to split payments into up to 12 installments on your credit card. The app also allows you to monitor all your vehicle notifications from DETRAN in one convenient place. You can check the current market value of your vehicle using the FIPE Table and access digital rotating parking services in Belo Horizonte. Additionally, Movyx offers a promotional campaign where you get a free digital rotating parking ticket after purchasing ten. It’s the go-to app for managing all your car-related tasks quickly and efficiently!"
+      }
+    }
+  },
+  "Education": {
+    "title": "Education",
+    "educations": {
+      "ufmg": {
+        "degree": "Bachelor's Degrees in Mathematics and Computer Sciences",
+        "country": "Brazil"
+      },
+      "una": {
+        "degree": "Technologist Degree in Analysis and Development of Systems",
+        "country": "Brazil"
+      }
+    }
+  },
+  "Contact": {
+    "title": "Let's talk!",
+    "form": "Send me a message",
+    "fields": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message"
+    },
+    "buttons": {
+      "send": "Send"
+    }
+  }
+}

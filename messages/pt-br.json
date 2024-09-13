@@ -1,0 +1,110 @@
+{
+  "ThemeDropdown": {
+    "light": {
+      "label": "Claro",
+      "key": "light"
+    },
+    "dark": {
+      "label": "Escuro",
+      "key": "dark"
+    }
+  },
+  "LanguageDropdown": {
+    "pt-br": {
+      "label": "Português",
+      "key": "pt-br"
+    },
+    "en": {
+      "label": "Inglês",
+      "key": "en"
+    }
+  },
+  "Navbar": {
+    "buttons": {
+      "home": "Tela inicial",
+      "skills": "Habilidades",
+      "experiences": "Experiências",
+      "projects": "Projetos",
+      "education": "Educação",
+      "contact": "Contato"
+    }
+  },
+  "Home": {
+    "greeting": "Olá, eu sou o",
+    "name": "Lucas Neri",
+    "job-title": "Desenvolvedor frontend",
+    "description": "Sou um desenvolvedor dedicado com experiência em várias áreas do desenvolvimento de software desde 2020. Meu foco principal é em sistemas web e desenvolvimento, onde sou apaixonado por descobrir soluções inovadoras e estratégias para otimizar processos e melhorar produtos. Estou comprometido em crescer como um desenvolvedor de destaque, conhecido pela minha capacidade de compartilhar conhecimento e causar um impacto significativo em cada organização com a qual colaboro.",
+    "second-description": "Meu objetivo é contribuir continuamente para o sucesso da minha equipe e avançar na área por meio da excelência técnica e do compartilhamento eficaz de conhecimento.",
+    "buttons": {
+      "contact-me": "Vamos conversar",
+      "download-cv": "Baixar CV"
+    }
+  },
+  "Skills": {
+    "title": "Minha stack de tecnologias",
+    "languages": "Linguagens",
+    "databases": "Bases de dados",
+    "cloud-providers": "Provedores de nuvem"
+  },
+  "Experiences": {
+    "title": "Experiências",
+    "experiences": {
+      "globo": {
+        "title": "Globo",
+        "description": "Meu foco principal é melhorar o sistema, desenvolvendo novas funcionalidades e otimizando as ferramentas existentes para garantir o máximo desempenho e funcionalidade. Estou envolvido em todas as etapas do processo de desenvolvimento, desde o design inicial até a implantação e manutenção."
+      },
+      "estrela": {
+        "title": "EstrelaBet",
+        "description": "No meu papel como desenvolvedor, desempenhei um papel fundamental na manutenção e melhoria do nosso sistema interno, crucial para gerenciar pagamentos, engajamento de jogadores e o programa de afiliados. Usando React e Vue.js, desenvolvi e otimizei interfaces de usuário para proporcionar uma experiência suave e intuitiva. Também utilizei React Native para aprimorar nossos aplicativos móveis, garantindo que fossem robustos e fáceis de usar. Além disso, contribuí significativamente para o design e otimização do nosso programa de afiliados, criando soluções escaláveis que apoiaram inúmeros afiliados, melhorando sua eficiência operacional e comunicação. Meu trabalho garantiu a funcionalidade, adaptabilidade e sucesso geral do programa."
+      },
+      "sx": {
+        "title": "Grupo SX",
+        "description": "Meu foco principal é melhorar o sistema adicionando novas funcionalidades e atualizando ferramentas existentes para garantir desempenho e funcionalidade ideais. Estou envolvido em todas as etapas do processo de desenvolvimento, contribuindo para o desenvolvimento e aprimoramento do sistema."
+      },
+      "upflow": {
+        "title": "upFlow.me",
+        "description": "Desempenhei um papel-chave na otimização e melhoria de nossos sistemas internos. Minhas responsabilidades incluíam analisar os requisitos do sistema, projetar e implementar soluções para melhorar a funcionalidade e eficiência, e trabalhar com equipes multifuncionais para uma integração perfeita. Avaliei e integrei tecnologias para atender às necessidades de negócios em evolução, desenvolvi e mantive sistemas para gerenciamento de dados, automação de processos e aprimoramento da interação com o usuário. Minhas contribuições foram focadas em fornecer insights acionáveis, impulsionar melhorias no sistema e alinhar soluções tecnológicas com os objetivos de negócios."
+      },
+      "sagendra": {
+        "title": "Sagendra",
+        "description": "During my time as a Trainee at Sagendra, I gained practical experience across various facets of software development and system analysis. I actively contributed to projects where I applied my theoretical knowledge to real-world situations. My role involved supporting senior developers with coding tasks, engaging in code reviews, and assisting in the design and implementation of new features. I also played a key role in debugging and troubleshooting, developing skills to effectively address technical challenges. This hands-on experience provided me with a strong foundation in software engineering principles and best practices, equipping me for more advanced roles in the field."
+      }
+    }
+  },
+  "Projects": {
+    "title": "Projetos",
+    "projects": {
+      "movyx": {
+        "title": "Movyx",
+        "description": "O Super App Movyx é uma solução completa criada para facilitar a vida dos proprietários de veículos, permitindo gerenciar tarefas relacionadas ao carro diretamente do seu smartphone. Com o Movyx, você pode pagar seu IPVA e multas de forma simples, com a opção de parcelar em até 12 vezes no cartão de crédito. O app também permite monitorar todas as notificações do DETRAN em um só lugar. Além disso, você pode consultar o valor de mercado do seu veículo pela Tabela FIPE e acessar o estacionamento rotativo digital em Belo Horizonte. O Movyx ainda oferece uma campanha promocional, onde você ganha um ticket de estacionamento rotativo digital gratuito após a compra de dez. É o app ideal para gerenciar todas as suas tarefas relacionadas ao carro de forma rápida e eficiente!"
+      }
+    }
+  },
+  "Education": {
+    "title": "Educação",
+    "educations": {
+      "ufmg": {
+        "degree": "Bacharelado em matemática computacional",
+        "country": "Brasil"
+      },
+      "una": {
+        "degree": "Tecnólogo em análise e desenvolvimento de sistemas",
+        "country": "Brasil"
+      }
+    }
+  },
+  "Contact": {
+    "title": "Vamos conversar!",
+    "form": "Me envie uma mensagem",
+    "fields": {
+      "name": "Nome",
+      "email": "Email",
+      "phone": "Telefone",
+      "subject": "Assunto",
+      "message": "Mensagem"
+    },
+    "buttons": {
+      "send": "Enviar"
+    }
+  }
+}
